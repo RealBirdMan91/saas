@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1707218598226,
+      "tag": "0000_unknown_absorbing_man",
+      "breakpoints": true
+    }
+  ]
+}
